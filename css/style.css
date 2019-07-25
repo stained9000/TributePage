@@ -1,0 +1,55 @@
+main {
+  background-color: lightgrey;
+  padding: 20px;
+  border-radius: 20px;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 10px;
+}
+
+figure {
+  text-align: center;
+}
+
+figure figcaption {
+  margin-top: 10px;
+}
+
+header {
+  text-align: center;
+}
+
+header h1 {
+  margin-bottom: 0;
+}
+
+header p {
+  margin-top: 5px;
+}
+
+#tribute-info h2 {
+  text-align: center;
+}
+
+#tribute-info ul {
+  max-width: 550px;
+  text-align: left;
+  margin: 0 auto 0 auto;
+  line-height: 1.6;
+}
+
+footer {
+  text-align: center;
+}
+
+#img-div {
+  background-color: white;
+  padding: 10px;
+  border-radius: 20px;
+  box-shadow: 5px 5px 10px grey;
+}
